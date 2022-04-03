@@ -1,3 +1,4 @@
+# HOTEL MANAGEMENT SYSTEM
 ## INTRODUCTION:
   * Hotel management is a project that manages and used to book the rooms. It allows the hotel staffs to search for the desired room.It provides room booking, staff management and other necessary hotel management features. 
 The system allows the manager to view the available rooms for pre booking through the system.
