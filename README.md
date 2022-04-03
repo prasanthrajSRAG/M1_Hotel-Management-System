@@ -11,6 +11,15 @@
   
  ### CODACY
    ![cb4b2125d3dc4a1496c78c3d014e8dda](https://user-images.githubusercontent.com/101448351/161425400-db1e76fc-a644-49ba-9eb0-d9b94a466950.svg)
+   
+ ## FOLDER STRUCTURE
+   |       FOLDER        |              DESCRIPTION                   |
+| :---                |     :---:                                  |
+| 1_Requirements      | Documents detailing requirements           |
+| 2_Architecture      | Structural and Behavioural UML             |
+| 3_Implementation    | ALl the code is written here               | 
+| 4_TestPlanAndOutput | Documents with test plans and outputs      | 
+| 5_Images            | All the images and program execution 
 
 
 
