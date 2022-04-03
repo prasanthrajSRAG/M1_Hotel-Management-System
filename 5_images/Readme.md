@@ -17,10 +17,11 @@
 
 
 ## DELETE RECORD
+  
 
 
 ## SEARCH RECORD
-
+  ![SEARCH](https://user-images.githubusercontent.com/101448351/161426375-486decf4-7e11-41db-b625-be98acbce058.jpeg)
 
 ## EXIT PAGE
 
