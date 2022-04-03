@@ -19,6 +19,8 @@
   ![SEARCH](https://user-images.githubusercontent.com/101448351/161426375-486decf4-7e11-41db-b625-be98acbce058.jpeg)
 
 ## EXIT PAGE
+  ![EXIT](https://user-images.githubusercontent.com/101448351/161426485-80ad5970-fef1-486a-adde-69b0860c0d10.jpeg)
+
 
 
 
