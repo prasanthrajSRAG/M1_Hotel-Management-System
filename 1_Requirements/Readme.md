@@ -44,20 +44,22 @@ The system allows the manager to view the available rooms for pre booking throug
   * Other applications have secured.
 
 ### HIGH LEVEL REQUIREMENTS:
-   | RID1 |  DESCRIPTION   | STATUS       |
-   | :--- |     :---:      |   ---:       |
-   | HLR1 |   C LANGUAGE   | IMPLEMENTED  |
-   | HLR2 |   OS WINDOWS   | IMPLEMENTED  |
-   | HLR3 |   OS LINUX     | IMPLEMENTED  |
-   | HLR3 |   4GB RAM      | IMPLEMENTED  |
+| RID  |                 DESCRIPTION                           | CATEGORY  | STATUS      |
+| :--- |     :---:                                             |      ---: |  ---:       |            
+| HR01 | User shall be able to login the portal                | Technical | IMPLEMENTED |             
+| HR02 | User shall be able to book the rooms                  | Technical | IMPLEMENTED |         
+| HR03 | User shall be able to view the customer records       | Technical | IMPLEMENTED |
+| HR04 | User shall be able to delete the record               | Technical | IMPLEMENTED |
+| HR05 | User shall be able to search the record               | Technical | IMPLEMENTED |
    
 ###LOW LEVEL REQUIREMENTS:
-   | RID1 |  DESCRIPTION     | STATUS       |
-   | :--- |     :---:        |   ---:       |
-   | LLR1 |   ADD ROOMS      | IMPLEMENTED  |
-   | LLR2 |   VIEW RECORDS   | IMPLEMENTED  |
-   | LLR3 |   DELETE RECORDS | IMPLEMENTED  |
-   | HLR3 |   SEARCH RECORDS | IMPLEMENTED  |
+   | ID   |                    DESCRIPTION                                                                                              | HLR ID | Status(Implemented/Future) |
+| :--- |                   :---:                                                                                                     |   ---: |                       ---: |
+| LR01 | User must login with username and password in login portal.                                                                 | HR01   |  IMPLEMENTED               |          |
+| LR02 | User must add information of customer like name,phone no,address,nationality,periods.                                       | HR02   |  IMPLEMENTED               |  
+| LR03 | User must be able to view the all customer records in the databse                                                           | HR03   |  IMPLEMENTED               |  
+| LR04 | User must be able to  delete the record by entering the room number.                                                        | HR04   |  IMPLEMENTED               |  
+| LR05 | User must be able to search the record by entering the room number                                                          | HR05   |  IMPLEMENTED
 
 
 
