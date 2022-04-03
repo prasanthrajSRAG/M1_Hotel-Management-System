@@ -4,11 +4,11 @@
 
  
 ## HOME PAGE
-  ![HOMEPAGE](https://user-images.githubusercontent.com/101448351/161426208-94193525-f902-44da-abae-05f4b632bf89.jpeg)
+  
 
 
 ## BOOKING ROOM
-
+  ![HOMEPAGE](https://user-images.githubusercontent.com/101448351/161426208-94193525-f902-44da-abae-05f4b632bf89.jpeg)
 
 ## SHOW ALL RECORDS
 
