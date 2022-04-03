@@ -44,7 +44,7 @@ The system allows the manager to view the available rooms for pre booking throug
   * Other applications have secured.
 
 ### HIGH LEVEL REQUIREMENTS:
-| RID  |                 DESCRIPTION                           | CATEGORY  | STATUS      |
+| ID  |                 DESCRIPTION                           | CATEGORY  | STATUS      |
 | :--- |     :---:                                             |      ---: |  ---:       |            
 | HR01 | User shall be able to login the portal                | Technical | IMPLEMENTED |             
 | HR02 | User shall be able to book the rooms                  | Technical | IMPLEMENTED |         
